@@ -5,9 +5,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-
-import static org.testng.Assert.assertNull;
-
 import java.util.concurrent.TimeUnit;
 
 public class SearchGooglePages extends Driver {
